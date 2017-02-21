@@ -1,0 +1,3 @@
+INST_URL=localhost:9990,localhost:9991
+DSNAME=ExampleDS,DS_Teste
+LOG_PATH=/app/logs/filebeat
