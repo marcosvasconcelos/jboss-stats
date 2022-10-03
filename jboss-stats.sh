@@ -2,7 +2,7 @@
 #####################################################################################################
 ##
 ##      @Author: Marcos Vasconcelos
-##      @email: marcos.vasconcelos@hpe.com
+##      @email: marvinred@gmail.com
 ##      @Version: 1.2
 ##      @Description: Script for statistics collection in JBoss EAP environment
 ##
