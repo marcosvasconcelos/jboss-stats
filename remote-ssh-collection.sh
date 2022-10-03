@@ -2,7 +2,7 @@
 #####################################################################################################
 ##
 ##      @Author: Marcos Vasconcelos
-##      @email: marcos.vasconcelos@hpe.com
+##      @email: marvinred@gmail.com
 ##      @Version: 1.0
 ##      @Description: Script for collect remote statistics in JBoss EAP environment from SSH service
 ##
