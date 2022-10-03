@@ -3,7 +3,7 @@
 ########
 ##
 ##      @Author: Marcos Vasconcelos
-##      @email: marcos.vasconcelos@hpe.com
+##      @email: marvinred@gmail.com
 ##      @Version: 1.0
 ##      @Description: Script to criptograph user / password and configure crontab
 ##
